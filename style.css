@@ -47,11 +47,11 @@ body {
 }
 
 .seat.selected {
-    background-color: #6feaf6;
+    background-color: #00ff00; /*Cor anterior #6feaf6*/
 }
 
 .seat.occupied {
-    background-color: #fff;
+    background-color: #ff5050; /*Cor anterior #fff*/
 }
 
 .seat:nth-of-type(2) {
